@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Azure App Service - Jakarta </title>
+  <title>Azure App Service</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.min.css">
@@ -30,7 +30,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <iframe width="350px" height ="200px" class="embed-responsive-item" src="https://www.youtube.com/embed/ma6-56SC-20"></iframe>
 </div>  -->
    
-  <h2 class="display-3">Build deploy and scale applications faster</h2> 
+  <h2 class="display-3">Build deploy and scale applications faster in Jakarta!!!</h2> 
      <br/>  
   <p class="lead">
     <a class="btn btn-primary btn-lg" href="https://docs.microsoft.com/azure/app-service-web" role="button">Learn more</a>
