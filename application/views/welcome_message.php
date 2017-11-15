@@ -107,7 +107,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="thumbnail">
                     <img src="<?php echo base_url();?>/images/github.png"  height="42" width="42" alt="">
                     <div class="caption">
-                        <h4>Samples and Resources</h4>
+                        <h4>Samples and Resources in Jakarta</h4>
                     </div>
                     <div style="text-align:left">
                         <ul>                        
